@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   earnapp1:
     container_name: earnapp1
