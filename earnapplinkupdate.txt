@@ -18,8 +18,3 @@ https://earnapp.com/r/sdk-node-3b8de4d26f31feeb429251b95f9b5cc4
 https://earnapp.com/r/sdk-node-a802f8527a282453a6bb6f46476580ce
 https://earnapp.com/r/sdk-node-f846a7e1c8e6ef6a735b0a22bab42c97
 https://earnapp.com/r/sdk-node-2c7b3c73f4b727e10e92076a865f14fb
-https://earnapp.com/r/sdk-node-d4a1b23e03cee525eea333a0638f6382
-https://earnapp.com/r/sdk-node-c59c6b2a5bf5889aeac0a732eda0751a
-https://earnapp.com/r/sdk-node-369fbae39e7cf5d90e51c5284fcb7ddd
-https://earnapp.com/r/sdk-node-d9fb34d70c17e7bb85c0380a85b95429
-https://earnapp.com/r/sdk-node-de0e14d9109a42e8b96482817f8ed8b6
