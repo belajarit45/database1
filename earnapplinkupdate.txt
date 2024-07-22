@@ -1,6 +1,1 @@
-URL earnapp:
-https://earnapp.com/r/sdk-android-42b90baee61049f3bf5dcd12d096253f
-https://earnapp.com/r/sdk-android-34db8937248a4198970e9bae68d4fa86
-https://earnapp.com/r/sdk-android-3ea468c76e2d4b05a4c9a5201bb1452f
-https://earnapp.com/r/sdk-android-49c83c6db5374e788c6b27a593b0d42d
-https://earnapp.com/r/sdk-android-94f1e2d62ebe485f88361cd79aedbf32
+
