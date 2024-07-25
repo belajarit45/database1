@@ -1,4 +1,4 @@
 # database1
 ```BASH
-apk add bash nano git docker-compose
+apk add bash curl nano git docker-compose
 ```
