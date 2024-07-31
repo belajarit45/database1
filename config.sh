@@ -99,7 +99,7 @@ for (( run=0; run<$runs; run++ )); do
 done
 
 # Push ke GitHub dengan Personal Access Token (PAT)
-GITHUB_TOKEN="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"
+GITHUB_TOKEN="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"
 
 # Konfigurasi git
 git config --global user.email "you@example.com"
