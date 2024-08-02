@@ -10,7 +10,7 @@ rc-service netdata start
 rc-update add netdata default
 
 # Install Netdata menggunakan perintah curl
-curl https://get.netdata.cloud/kickstart.sh > /tmp/netdata-kickstart.sh && sh /tmp/netdata-kickstart.sh --nightly-channel --claim-token VO61cF_igS-y1DRluKjYwPOfvW9yL8-wmLQUjaNi_J7tW7MVwyfCN02-VIh7mZ3nn5szxhUbhvy5_SKBAQPGegVHyufAqwNcoODrVgHuw4SXn1AoHzlyS7sQG1SvrURIzSM3RVE --claim-rooms ecf705d6-c0bc-4044-ac48-b241c9ac1db3 --claim-url https://app.netdata.cloud
+curl https://get.netdata.cloud/kickstart.sh > /tmp/netdata-kickstart.sh && sh /tmp/netdata-kickstart.sh --nightly-channel --claim-token Nrs71v-Fq3sa4W1lHqmHXqp4avVwqVAD8BbC0vPtthadCzkSRxF6nJQLMSIXhmI_KTObut6PUq4sVxbvdYb2YXZ-Ar-P2mMsxSKC5pIvgGdp4AEVprCE7s80R96WM6tBoAHYV3I --claim-rooms ecf705d6-c0bc-4044-ac48-b241c9ac1db3 --claim-url https://app.netdata.cloud
 
 # Nama file yang akan dicek di GitHub
 FILE_NAME="uuidnew.txt"
