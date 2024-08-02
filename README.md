@@ -13,3 +13,8 @@ top
 ```BASH
 vnstat -i eth0
 ```
+
+# buka link 
+```BASH
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/belajarit45/database1/main/openlink.sh)"
+```
